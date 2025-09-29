@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icones">
+    <file>cotonete.png</file>
+    <file>ferro-de-passar-roupas.png</file>
+    <file>lavando-roupas.png</file>
+    <file>maquina-de-lavar.png</file>
+    <file>sabao.png</file>
+    <file>clock.png</file>
+    <file>cloth.png</file>
+    <file>cutting-with-a-scissor-on-broken-line.png</file>
+    <file>diamond.png</file>
+    <file>encrypted.png</file>
+    <file>financial-report.png</file>
+    <file>log-out.png</file>
+    <file>paycheck.png</file>
+    <file>to-do-list.png</file>
+    <file>shorts (1).png</file>
+  </qresource>
+</RCC>
